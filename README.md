@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/thisisadelakun/Interactive_rating)
-- Live Site URL: [GoLive](https://your-live-site-url.com)
+- Live Site URL: [GoLive](https://adelakun-interactive-rating.netlify.app/)
 
 
 ### Built with
