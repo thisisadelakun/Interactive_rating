@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Interactive%20Rating/src/assets/Rating_DSS_1.JPG)
-![](./Interactive%20Rating/src/assets/Rating_DSS_2.JPG)
-![](./Interactive%20Rating/src/assets/Rating_MSS_1.JPG)
-![](./Interactive%20Rating/src/assets/Rating_MSS_2.JPG)
+![](./src/assets/Rating_DSS_1.JPG)
+![](./src/assets/Rating_DSS_2.JPG)
+![](./src/assets/Rating_MSS_1.JPG)
+![](./src/assets/Rating_MSS_2.JPG)
 
 
 ### Links
